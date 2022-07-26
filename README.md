@@ -1,4 +1,4 @@
-# Assignment - 7 - HTML ![](.//html-5.png) and CSS ![](.//css-3.png)
+# Assignment - 7 - HTML ![](./images/html-5.png) and CSS ![](./images/css-3.png)
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
