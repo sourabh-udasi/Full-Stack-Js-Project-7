@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", Helvetica, sans-serif;
+  margin-left: -0.5rem;
+}
+/* nav bar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.8rem 1rem 6rem 5rem;
+}
+
+.nav-item {
+  list-style: none;
+  margin: 0 3rem;
+  text-align: center;
+}
+.active-item {
+  font-weight: 900;
+  color: orangered;
+  font-weight: 900;
+}
+.nav-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #5a5656;
+  margin-bottom: 0.5rem;
+  margin-left: 8rem;
+}
+/* INTRO SECTION */
+.intro-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 5rem;
+}
+/* left section */
+.left-section {
+  margin-top: -2rem;
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+}
+.left-section h3 {
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  font-size: 25px;
+  margin-bottom: 2rem;
+  margin-top: -3rem;
+}
+.left-section h1 {
+  margin-top: 2rem;
+  font-size: 50px;
+  font-weight: 900;
+}
+.sub-headlines {
+  margin-top: 2rem;
+  margin-left: 6rem;
+  font-size: 20px;
+  font-weight: 500;
+}
+.sub-headlines img {
+  margin-right: 1rem;
+  margin-bottom: -0.5rem;
+  background-color: orangered;
+  padding: 3px;
+  border-radius: 50%;
+}
+.sub-headline {
+  margin-bottom: 0.7rem;
+  align-items: center;
+}
+
+p {
+  width: 70%;
+  font-size: 15px;
+  margin-top: 3rem;
+}
+
+.action-btn {
+  padding: 10px 20px;
+  color: #fff;
+  background-color: orangered;
+  border-radius: 50px;
+  font-size: 15px;
+  margin-right: 3rem;
+  margin-top: 4rem;
+  font-weight: 500;
+  border: none;
+}
+/* RIGHT SECTION */
+.right-section {
+  margin-right: 8rem;
+  align-items: center;
+}
+.headphone-div {
+  margin-top: -4rem;
+}
+.discount {
+  position: absolute;
+  margin-top: 16rem;
+  margin-left: -2.5rem;
+}
+.discount-content {
+  position: absolute;
+  margin-top: 18rem;
+}
+.discount-content h4 {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  margin-left: -0.2rem;
+}
+.discount-content h1 {
+  color: #fff;
+  font-size: 35px;
+  font-weight: 900;
+  margin-left: -0.2rem;
+}
+.action-btn-add {
+  padding: 10px 20px;
+  color: #fff;
+  background-color: orangered;
+  border-radius: 50px;
+  font-size: 15px;
+  margin-top: 2rem;
+  margin-left: 7rem;
+  font-weight: 500;
+  border: none;
+}
+.dot {
+  display: inline;
+  padding: 0px 11px;
+  border-radius: 100%;
+}
+.black-dot {
+  background-color: black;
+}
+.yellow-dot {
+  background-color: rgb(247, 217, 44);
+  margin-left: 7rem;
+  margin-right: 3rem;
+}
+.tomato-dot {
+  background-color: orangered;
+  margin-right: 3rem;
+}
